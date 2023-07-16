@@ -1,2 +1,6 @@
-# Notes_App
-React-NotesApp
+# Run the code
+
+```
+npm install
+npm start
+```
